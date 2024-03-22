@@ -2,7 +2,26 @@
 
 🖥️NCF-Meet
 
-NCF Meet is a cutting-edge video conferencing application developed with a focus on security, decentralization, and enhanced user experience. Leveraging advanced technologies such as blockchain authentication, post-quantum cryptography, natural language processing (NLP), and AI-powered interaction, NCF Meet redefines the standards of virtual meetings.
+   Organizations are having a lot of issues with data security, particularly with web2 online
+meeting systems. Numerous vulnerabilities in web2 meeting platforms might compromise the
+confidentiality of important and sensitive information held by the organization. It's likely that the
+centralized service providers gather a lot of information about their customers, such as IP
+addresses, device details, and meeting metadata. The movements and online activities of users can
+be monitored using this data. Additionally, these established platforms previously had weaknesses
+in security that might have given hackers access to users' devices and meetings. and numerous
+other problems, such as a deficiency in customization.
+  
+   We suggest a method that takes into account, ranks, and resolves the shortcomings of the
+Web2 meeting platforms. Our web/mobile application's main goals are to increase data integrity,
+safeguard sensitive information, and create a tamper-proof meeting atmosphere by utilizing
+blockchain capabilities. We also hope to personalize user experiences by utilizing AI features.
+   
+   In a time when online meeting security is crucial, customers can rely on our app NCF (Non
+Centralized Future) to prioritize data privacy and confidentiality, giving them peace of mind. This
+platform is designed with an organization in mind, removing the need for them to rely on a third-
+party, centralized system that may have data loss.
+
+
 
 ![download](https://github.com/Oveyahima/NCF-Meet/assets/133984750/b4b75f78-d6b1-4f87-a7b7-d0c150489837)
 
