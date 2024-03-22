@@ -47,6 +47,7 @@ party, centralized system that may have data loss.
 * Enhances interactivity by integrating GenAI to respond to user queries within chats.
 * Capable of providing responses in text format based on images or text queries, aiding in clear understanding of concepts.
 
+![Screenshot from 2024-03-22 10-43-03](https://github.com/Oveyahima/NCF-Meet/assets/133984750/30d48c68-e63e-4361-8c3d-306d72c22934)
 
 🔖 Technologies Used
 
