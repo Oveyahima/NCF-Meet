@@ -1,10 +1,10 @@
-![logo](https://github.com/Oveyahima/NCF-Meet/assets/133984750/b4b75f78-d6b1-4f87-a7b7-d0c150489837)
+![logo](https://github.com/Oveyahima/NCF-Meet/assets/133984750/73a85eb7-f19b-4926-8f3a-8349f626428f)
 
 🖥️NCF-Meet
 
 NCF Meet is a cutting-edge video conferencing application developed with a focus on security, decentralization, and enhanced user experience. Leveraging advanced technologies such as blockchain authentication, post-quantum cryptography, natural language processing (NLP), and AI-powered interaction, NCF Meet redefines the standards of virtual meetings.
 
-![download](https://github.com/Oveyahima/NCF-Meet/assets/133984750/228d48e9-a87d-4992-b820-ecbfda338043)
+![download](https://github.com/Oveyahima/NCF-Meet/assets/133984750/b4b75f78-d6b1-4f87-a7b7-d0c150489837)
 
 ⚙️Features
 
@@ -41,7 +41,7 @@ NCF Meet is a cutting-edge video conferencing application developed with a focus
 
 📊 Architecture
 
-![flow](https://github.com/Oveyahima/NCF-Meet/assets/133984750/73a85eb7-f19b-4926-8f3a-8349f626428f)
+![flow](https://github.com/Oveyahima/NCF-Meet/assets/133984750/228d48e9-a87d-4992-b820-ecbfda338043)
 
 
 📥 Installation
